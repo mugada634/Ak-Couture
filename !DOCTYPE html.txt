@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hand-Painted Organza Creations</title>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f9f9f9; margin: 0; padding: 0; }
+        header { background-color: #fff; padding: 20px; text-align: center; }
+        header h1 { color: #6f4f37; }
+        section { padding: 40px; }
+        .hero { background-image: url('hero-placeholder.jpg'); height: 400px; background-size: cover; text-align: center; color: white; display: flex; justify-content: center; align-items: center; }
+        .hero h2 { font-size: 36px; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 20px; }
+        footer { background-color: #333; color: white; text-align: center; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Hand-Painted Organza Creations</h1>
+</header>
+
+<section class="hero">
+    <h2>Discover the Elegance of Hand-Painted Organza Clothing</h2>
+</section>
+
+<section class="container">
+    <h2>About Us</h2>
+    <p>At Hand-Painted Organza Creations, we create wearable art. Each garment is uniquely hand-painted, embroidered, and adorned with intricate stone stitching. Our pieces combine elegance with artistry, making every creation a timeless addition to your wardrobe.</p>
+</section>
+
+<section class="container">
+    <h2>Our Collection</h2>
+    <div>
+        <h3>Exquisite Hand-Painted Organza Dress</h3>
+        <p>Floral embroidery and stone detailing, perfect for special occasions.</p>
+    </div>
+    <div>
+        <h3>Delicate Hand-Painted Organza Scarf</h3>
+        <p>Custom embroidery and crystal stones make this scarf a sophisticated accessory.</p>
+    </div>
+</section>
+
+<section class="container">
+    <h2>Contact Us</h2>
+    <p>For inquiries, custom orders, or questions, reach out to us via email or social media!</p>
+    <form action="#">
+        <input type="text" placeholder="Your Name" required><br>
+        <input type="email" placeholder="Your Email" required><br>
+        <textarea placeholder="Your Message" required></textarea><br>
+        <button type="submit">Send Message</button>
+    </form>
+</section>
+
+<footer>
+    <p>&copy; 2025 Hand-Painted Organza Creations | Follow us on Instagram, Facebook, Pinterest</p>
+</footer>
+
+</body>
+</html>
